@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/your-next-dog/static/css/main.5f361e03.chunk.css",
+    "main.js": "/your-next-dog/static/js/main.10ab78ad.chunk.js",
+    "main.js.map": "/your-next-dog/static/js/main.10ab78ad.chunk.js.map",
+    "runtime-main.js": "/your-next-dog/static/js/runtime-main.4944e4eb.js",
+    "runtime-main.js.map": "/your-next-dog/static/js/runtime-main.4944e4eb.js.map",
+    "static/js/2.44da25c9.chunk.js": "/your-next-dog/static/js/2.44da25c9.chunk.js",
+    "static/js/2.44da25c9.chunk.js.map": "/your-next-dog/static/js/2.44da25c9.chunk.js.map",
+    "index.html": "/your-next-dog/index.html",
+    "precache-manifest.a71d7de91ce46fa196f9027bb9409a4d.js": "/your-next-dog/precache-manifest.a71d7de91ce46fa196f9027bb9409a4d.js",
+    "service-worker.js": "/your-next-dog/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/your-next-dog/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.44da25c9.chunk.js.LICENSE.txt": "/your-next-dog/static/js/2.44da25c9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/your-next-dog/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4944e4eb.js",
+    "static/js/2.44da25c9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.10ab78ad.chunk.js"
+  ]
+}
